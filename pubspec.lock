@@ -89,14 +89,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.2.2"
-  firebase_ml_vision:
-    dependency: "direct main"
-    description:
-      name: firebase_ml_vision
-      sha256: "893416932a24d95722cd16c5e96bd0f87c3399497e9c4344723d16a93b666524"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.12.0+3"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -128,6 +120,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  google_mlkit_commons:
+    dependency: transitive
+    description:
+      name: google_mlkit_commons
+      sha256: af63771903947d5523d9e991a939a4b8bf994f11661c9b9c8a71d7d3997115f8
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.0"
+  google_mlkit_image_labeling:
+    dependency: "direct main"
+    description:
+      name: google_mlkit_image_labeling
+      sha256: "8a1b7774d252b0227640c566e5727f2bcdcbe99e48101c95dde6cdcac237ea8d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.5.0"
   http:
     dependency: transitive
     description:

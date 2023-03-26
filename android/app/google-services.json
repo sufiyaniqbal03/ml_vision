@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991529769279",
+    "project_id": "ml-vision-b50f0",
+    "storage_bucket": "ml-vision-b50f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991529769279:android:ee355f35a03a1e1dcc9b8a",
+        "android_client_info": {
+          "package_name": "com.example.helper_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991529769279-13at6qi1laeovplee0i6qhv5buddfs9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1d0u7Zg5hixqMNrrKJDodHgmRtCjuAJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991529769279-13at6qi1laeovplee0i6qhv5buddfs9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
